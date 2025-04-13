@@ -28,7 +28,7 @@ namespace tpmodul8_103022300100
             {
                 config = new Config
                 {
-                    satuan_suhu = "fahrenheit",
+                    satuan_suhu = "celcius",
                     batas_hari_demam = 14,
                     pesan_ditolak = "anda tidak diperbolehkan masuk ke dalam gedung ini",
                     pesan_diterima = "anda dipersilahkan untuk masuk ke dalam gedung ini"
