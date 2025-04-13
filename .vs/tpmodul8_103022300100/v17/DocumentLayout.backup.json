@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B58685B3-DAA6-42C4-956C-B80EB9DF3E5A}|tpmodul8_103022300100\\tpmodul8_103022300100.csproj|d:\\dev\\konstruksi pl\\tpmodul8_103022300100\\tpmodul8_103022300100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B58685B3-DAA6-42C4-956C-B80EB9DF3E5A}|tpmodul8_103022300100\\tpmodul8_103022300100.csproj|solutionrelative:tpmodul8_103022300100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B58685B3-DAA6-42C4-956C-B80EB9DF3E5A}|tpmodul8_103022300100\\tpmodul8_103022300100.csproj|d:\\dev\\konstruksi pl\\tpmodul8_103022300100\\tpmodul8_103022300100\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58685B3-DAA6-42C4-956C-B80EB9DF3E5A}|tpmodul8_103022300100\\tpmodul8_103022300100.csproj|solutionrelative:tpmodul8_103022300100\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58685B3-DAA6-42C4-956C-B80EB9DF3E5A}|tpmodul8_103022300100\\tpmodul8_103022300100.csproj|d:\\dev\\konstruksi pl\\tpmodul8_103022300100\\tpmodul8_103022300100\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58685B3-DAA6-42C4-956C-B80EB9DF3E5A}|tpmodul8_103022300100\\tpmodul8_103022300100.csproj|solutionrelative:tpmodul8_103022300100\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58685B3-DAA6-42C4-956C-B80EB9DF3E5A}|tpmodul8_103022300100\\tpmodul8_103022300100.csproj|d:\\dev\\konstruksi pl\\tpmodul8_103022300100\\tpmodul8_103022300100\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B58685B3-DAA6-42C4-956C-B80EB9DF3E5A}|tpmodul8_103022300100\\tpmodul8_103022300100.csproj|solutionrelative:tpmodul8_103022300100\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\tpmodul8_103022300100\\Program.cs",
-              "RelativeDocumentMoniker": "tpmodul8_103022300100\\Program.cs",
-              "ToolTip": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\tpmodul8_103022300100\\Program.cs",
-              "RelativeToolTip": "tpmodul8_103022300100\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\tpmodul8_103022300100\\MainClass.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103022300100\\MainClass.cs",
+              "ToolTip": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\tpmodul8_103022300100\\MainClass.cs",
+              "RelativeToolTip": "tpmodul8_103022300100\\MainClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T02:41:32.67Z",
+              "WhenOpened": "2025-04-13T14:39:18.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\tpmodul8_103022300100\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103022300100\\CovidConfig.cs",
+              "ToolTip": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\tpmodul8_103022300100\\CovidConfig.cs",
+              "RelativeToolTip": "tpmodul8_103022300100\\CovidConfig.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:53:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\tpmodul8_103022300100\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_103022300100\\covid_config.json",
+              "ToolTip": "D:\\Dev\\Konstruksi PL\\tpmodul8_103022300100\\tpmodul8_103022300100\\covid_config.json",
+              "RelativeToolTip": "tpmodul8_103022300100\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T02:52:14.931Z",
               "EditorCaption": ""
             }
           ]
